@@ -1,0 +1,33 @@
+[
+    {
+        "route": "/answers/one",
+        "q": "1. Describe how you solved a challenge that one of your previous teams faced. How did you determine your solution was successful?"
+    },
+    {
+        "route": "/answers/two",
+        "q": "2. How would you compare Next.js with another framework? Feel free to compare with a framework of your choice"
+    },
+    {
+        "route": "/answers/three",
+        "q": "3. When would you choose to use Edge Functions, Serverless Functions, or Edge Middleware with Vercel?"
+    },
+    {
+        "route": "/answers/four",
+        "q": "4. A customer has a project on Vercel and they want to redirect the /blog path to another website. Please write a reply to the customer. Separately, list any relevant documentation you found and any feedback or information you'd like to share about your decision making process."
+    },
+    {
+        "route": "/answers/five",
+        "q": "5. Imagine that the customer from Question 4 responds with the following email.",
+        "context": "\"I'm so frustrated. I've been trying to make this work for hours and I just can't figure it out. It must be a platform issue so why don't you just fix it for me instead of asking me questions.\""
+    },
+    {
+        "route": "/answers/six",
+        "q": "1. A customer is creating a site and would like their project not to be indexed by search engines. Please write a reply to the customer. Separately, list any relevant documentation you found and any feedback or information you'd like to share about your decision making process.",
+        "prefix": "What response would you write back?"
+    },
+    {
+        "route": "/answers/seven",
+        "q": "2. How could we improve or alter this familiarization exercise?",
+        "prefix": "What response would you write back?"
+    }
+]
