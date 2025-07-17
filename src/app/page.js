@@ -16,7 +16,7 @@ const HomePage = () => {
                 <div>Sam Marston</div>
                 <div>
                     <a
-                        href="http://sammarston.netlify.com"
+                        href="http://sammarston.netlify.app"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
